@@ -1,7 +1,7 @@
+use druid::commands::SHOW_OPEN_PANEL;
 use druid::{AppLauncher, PlatformError, Widget, WidgetExt, WindowDesc };
 use druid::widget::{Flex, TextBox, Button};
 use druid::Lens;
-use druid::commands::SHOW_OPEN_PANEL;
 use druid::FileDialogOptions;
 use druid_shell::FileSpec;
 use std::fs::File;

@@ -9,13 +9,9 @@ pub struct AppState {
 }
 
 pub fn convert_and_save(state: &AppState) {
-    // Implement your conversion logic here
-    // You can use state.file_path and state.table_name to access user inputs
-    // Perform JSON to SQL conversion and save to file
     println!("Converting JSON to SQL...");
     println!("File Path: {}", state.file_path);
     println!("Table Name: {}", state.table_name);
-    // Perform SQL conversion and save logic here
     println!("Conversion complete!");
 }
 
