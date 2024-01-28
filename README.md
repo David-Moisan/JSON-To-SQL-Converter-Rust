@@ -10,4 +10,9 @@ make this cmd :
 ## How to run this project
 
 `cd json_to_sql`
+
 `make run`
+
+<p align="center">
+<img src="https://www.cjoint.com/doc/24_01/NACpzA440dS_json-to-sql-gui.png" alt="GUI JSON to SQL Converter" />
+</p>
